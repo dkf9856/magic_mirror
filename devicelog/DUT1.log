@@ -1,0 +1,44 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.05.07 10:24:37 =~=~=~=~=~=~=~=~=~=~=~=
+
+[2022/05/07 10:24:39] <H3C>
+[2022/05/07 10:24:39] <H3C>save mirror.cfg
+[2022/05/07 10:24:39] The current configuration will be saved to flash:/mirror.cfg. Continue? [Y/N]:
+[2022/05/07 10:24:39] Before pressing ENTER you must choose 'YES' or 'NO'[Y/N]:y
+[2022/05/07 10:24:42] flash:/mirror.cfg exists, overwrite? [Y/N]:
+[2022/05/07 10:24:42] Before pressing ENTER you must choose 'YES' or 'NO'[Y/N]:y
+[2022/05/07 10:24:45] Now saving current configuration to the device.
+[2022/05/07 10:24:45] Saving configuration flash:/mirror.cfg.Please wait...
+[2022/05/07 10:24:45] Configuration is saved to device successfully.
+[2022/05/07 10:24:45] <H3C>
+[2022/05/07 10:24:45] <H3C>
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>reset logbuffer
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>####start####
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:24:48] <H3C>
+[2022/05/07 10:25:14] <H3C>
+[2022/05/07 10:25:14] <H3C>dis logbuffer
+[2022/05/07 10:25:14] Log buffer: Enabled
+[2022/05/07 10:25:14] Max buffer size: 1024
+[2022/05/07 10:25:14] Actual buffer size: 512
+[2022/05/07 10:25:14] Dropped messages: 0
+[2022/05/07 10:25:14] Overwritten messages: 0
+[2022/05/07 10:25:14] Current messages: 1
+[2022/05/07 10:25:14] %May  7 14:51:22:637 2022 H3C SHELL/6/SHELL_CMD: -Line=vty0-IPAddr=192.168.56.1-User=**; Command is reset logbuffer
+[2022/05/07 10:25:14] <H3C>
+[2022/05/07 10:25:14] <H3C>        
+[2022/05/07 10:25:14] <H3C>
+[2022/05/07 10:25:14] <H3C>undo t m
+[2022/05/07 10:25:14] The current terminal is disabled to display logs.
+[2022/05/07 10:25:14] <H3C>
+[2022/05/07 10:25:14] <H3C>undo t d
+[2022/05/07 10:25:14] The current terminal is disabled to display debugging logs.
+[2022/05/07 10:25:14] <H3C>
+[2022/05/07 10:25:14] <H3C>####end####
+[2022/05/07 10:25:14] <H3C>
+[2022/05/07 10:25:14] <H3C>

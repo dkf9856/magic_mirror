@@ -1,0 +1,47 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.05.07 10:24:37 =~=~=~=~=~=~=~=~=~=~=~=
+
+
+[2022/05/07 10:24:39] <H3C>
+
+[2022/05/07 10:24:39] <H3C>save mirror.cfg
+
+[2022/05/07 10:24:39] The current configuration will be saved to flash:/mirror.cfg. Continue? [Y/N]:
+
+[2022/05/07 10:24:39] Before pressing ENTER you must choose 'YES' or 'NO'[Y/N]:y
+
+[2022/05/07 10:24:42] flash:/mirror.cfg exists, overwrite? [Y/N]:
+
+[2022/05/07 10:24:42] Before pressing ENTER you must choose 'YES' or 'NO'[Y/N]:y
+
+[2022/05/07 10:24:45] Now saving current configuration to the device.
+
+[2022/05/07 10:24:45] Saving configuration flash:/mirror.cfg.Please wait...
+
+[2022/05/07 10:24:45] Configuration is saved to device successfully.
+
+[2022/05/07 10:24:45] <H3C>
+
+[2022/05/07 10:24:45] <H3C>
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>reset logbuffer
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>####start####
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:24:48] <H3C>
+
+[2022/05/07 10:25:14] <H3C>display this | include sss
+
